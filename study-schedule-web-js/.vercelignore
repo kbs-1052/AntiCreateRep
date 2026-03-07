@@ -1,0 +1,6 @@
+backend/
+.gradle/
+build/
+node_modules/
+frontend/node_modules/
+*.log
